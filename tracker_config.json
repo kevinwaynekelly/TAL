@@ -160,7 +160,7 @@
 		"submit_box_type": "XPATH"
 	},
 	"TorrentLeech": {
-		"url": "https://www.torrentleech.org/user/account/login/",
+		"url": "https://www.torrentleech.org/profile/darthRevan117/view",
 		"login_url": "https://www.torrentleech.org/profile/darthRevan117/view",
 		"login_box": "username",
 		"login_box_type": "NAME",
