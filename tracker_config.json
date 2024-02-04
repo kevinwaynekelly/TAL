@@ -24,7 +24,7 @@
 	"AlphaRatio": {
 		"url": "https://alpharatio.cc/login.php",
 		"login_url": "https://alpharatio.cc/index.php",
-		"stats_url": "https://www.google.com/",
+		"stats_url": "https://alpharatio.cc/user.php?id=76993",
 		"login_box": "username",
 		"login_box_type": "ID",
 		"password_box": "password",
