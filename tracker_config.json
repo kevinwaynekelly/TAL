@@ -7,7 +7,7 @@
 		"login_box_type": "XPATH",
 		"password_box": "//input[@class='auth-form__text-input' and @name='password']",
 		"passowrd_box_type": "XPATH",
-		"submit_box": "//button[@type='submit' and @id='login-button']",
+		"submit_box": "//button[@class='auth-form__primary-button']",
 		"submit_box_type": "XPATH"
 	},
 	"Reelflix": {
@@ -18,7 +18,7 @@
 		"login_box_type": "XPATH",
 		"password_box": "//input[@class='auth-form__text-input' and @name='password']",
 		"passowrd_box_type": "XPATH",
-		"submit_box": "//button[@type='submit' and @id='login-button']",
+		"submit_box": "//button[@class='auth-form__primary-button']",
 		"submit_box_type": "XPATH"
 	},
 	"AlphaRatio": {
@@ -40,7 +40,7 @@
 		"login_box_type": "XPATH",
 		"password_box": "//input[@class='auth-form__text-input' and @name='password']",
 		"passowrd_box_type": "XPATH",
-		"submit_box": "//button[@type='submit' and @id='login-button']",
+		"submit_box": "//button[@class='auth-form__primary-button']",
 		"submit_box_type": "XPATH"
 	},
 	"CathodeRayTube": {
