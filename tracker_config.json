@@ -10,6 +10,50 @@
 		"submit_box": "auth-form__primary-button",
 		"submit_box_type": "CLASS"
 	},
+	"Anthelion": {
+		"url": "https://anthelion.me/login.php",
+		"login_url": "https://anthelion.me/index.php",
+		"stats_url": "https://anthelion.me/user.php?id=7243",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "//input[@type='submit' and @value='Log in']",
+		"submit_box_type": "XPATH"
+	},
+	"FearNoPeer": {
+		"url": "https://fearnopeer.com/login",
+		"login_url": "https://fearnopeer.com/",
+		"stats_url": "https://fearnopeer.com/users/darthRevan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "auth-form__primary-button",
+		"submit_box_type": "CLASS"
+	},
+	"OnlyEncodes": {
+		"url": "https://onlyencodes.cc/login",
+		"login_url": "https://onlyencodes.cc/pages/1",
+		"stats_url": "https://onlyencodes.cc/users/darthRevan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "auth-form__primary-button",
+		"submit_box_type": "CLASS"
+	},
+	"DigitalCore": {
+		"url": "https://digitalcore.club/login",
+		"login_url": "https://digitalcore.club/",
+		"stats_url": "https://digitalcore.club/user/37958/darth_revan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "//input[@type='submit' and @value='Log in']",
+		"submit_box_type": "XPATH"
+	},
 	"Reelflix": {
 		"url": "https://reelflix.xyz/login",
 		"login_url": "https://reelflix.xyz/",
