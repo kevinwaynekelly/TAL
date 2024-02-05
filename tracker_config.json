@@ -112,9 +112,9 @@
 		"submit_box_type": "ID"
 	},
 	"AnimeTorrents": {
-		"url": "https://skipthetrailers.xyz/login",
-		"login_url": "https://skipthetrailers.xyz/",
-		"stats_url": "https://skipthetrailers.xyz/users/darthRevan",
+		"url": "https://animetorrents.me/login.php",
+		"login_url": "https://animetorrents.me/",
+		"stats_url": "https://animetorrents.me/user-profile.php?uid=729571",
 		"login_box": "login-element-2",
 		"login_box_type": "ID",
 		"password_box": "login-element-3",
