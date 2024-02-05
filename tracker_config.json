@@ -4,9 +4,9 @@
 		"login_url": "https://aither.cc/",
 		"stats_url": "https://aither.cc/users/darth_revan",
 		"login_box": "username",
-		"login_box_type": "TEXT",
+		"login_box_type": "ID",
 		"password_box": "password",
-		"password_box_type": "TEXT",
+		"password_box_type": "ID",
 		"submit_box": "//button[@type='submit' and @id='login-button']",
 		"submit_box_type": "XPATH"
 	},
