@@ -1,70 +1,4 @@
 {
-	"Aither": {
-		"url": "https://aither.cc/login",
-		"login_url": "https://aither.cc/",
-		"stats_url": "https://aither.cc/users/darth_revan",
-		"login_box": "//input[@id='username' and @name='username']",
-		"login_box_type": "XPATH",
-		"password_box": "password",
-		"password_box_type": "ID",
-		"submit_box": "auth-form__primary-button",
-		"submit_box_type": "CLASS"
-	},
-	"Anthelion": {
-		"url": "https://anthelion.me/login.php",
-		"login_url": "https://anthelion.me/index.php",
-		"stats_url": "https://anthelion.me/user.php?id=7243",
-		"login_box": "//input[@id='username' and @name='username']",
-		"login_box_type": "XPATH",
-		"password_box": "password",
-		"password_box_type": "ID",
-		"submit_box": "//input[@type='submit' and @value='Log in']",
-		"submit_box_type": "XPATH"
-	},
-	"FearNoPeer": {
-		"url": "https://fearnopeer.com/login",
-		"login_url": "https://fearnopeer.com/",
-		"stats_url": "https://fearnopeer.com/users/darthRevan",
-		"login_box": "//input[@id='username' and @name='username']",
-		"login_box_type": "XPATH",
-		"password_box": "password",
-		"password_box_type": "ID",
-		"submit_box": "auth-form__primary-button",
-		"submit_box_type": "CLASS"
-	},
-	"OnlyEncodes": {
-		"url": "https://onlyencodes.cc/login",
-		"login_url": "https://onlyencodes.cc/pages/1",
-		"stats_url": "https://onlyencodes.cc/users/darthRevan",
-		"login_box": "//input[@id='username' and @name='username']",
-		"login_box_type": "XPATH",
-		"password_box": "password",
-		"password_box_type": "ID",
-		"submit_box": "auth-form__primary-button",
-		"submit_box_type": "CLASS"
-	},
-	"DigitalCore": {
-		"url": "https://digitalcore.club/login",
-		"login_url": "https://digitalcore.club/",
-		"stats_url": "https://digitalcore.club/user/37958/darth_revan",
-		"login_box": "//input[@id='username' and @name='username']",
-		"login_box_type": "XPATH",
-		"password_box": "password",
-		"password_box_type": "ID",
-		"submit_box": "//input[@type='submit' and @value='Log in']",
-		"submit_box_type": "XPATH"
-	},
-	"Reelflix": {
-		"url": "https://reelflix.xyz/login",
-		"login_url": "https://reelflix.xyz/",
-		"stats_url": "https://reelflix.xyz/users/darth_revan",
-		"login_box": "//input[@id='username' and @name='username']",
-		"login_box_type": "XPATH",
-		"password_box": "password",
-		"password_box_type": "ID",
-		"submit_box": "auth-form__primary-button",
-		"submit_box_type": "CLASS"
-	},
 	"AlphaRatio": {
 		"url": "https://alpharatio.cc/login.php",
 		"login_url": "https://alpharatio.cc/index.php",
@@ -87,6 +21,62 @@
 		"submit_box": "auth-form__primary-button",
 		"submit_box_type": "CLASS"
 	},
+	"TorrentLeech": {
+		"url": "https://www.torrentleech.org/user/account/login/",
+		"login_url": "https://www.torrentleech.org/torrents/top/index/added/-1%20day/orderby/completed/order/desc",
+		"stats_url": "https://www.torrentleech.org/profile/darthRevan117/view",
+		"login_box": "username",
+		"login_box_type": "NAME",
+		"password_box": "password",
+		"password_box_type": "NAME",
+		"submit_box": "//button[@type='submit' and @class='btn tl-btn btn-primary action']",
+		"submit_box_type": "XPATH"
+	},
+	"Anthelion": {
+		"url": "https://anthelion.me/login.php",
+		"login_url": "https://anthelion.me/index.php",
+		"stats_url": "https://anthelion.me/user.php?id=7243",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "//input[@type='submit' and @value='Log in']",
+		"submit_box_type": "XPATH"
+	},
+	"IPTorrents": {
+		"url": "https://iptorrents.com/login.php",
+		"login_url": "https://iptorrents.com/t",
+		"login_title": "Torrents - IPTorrents - #1 Private Tracker",
+		"stats_url": "https://iptorrents.com/user.php?u=2089006",
+		"login_box": "username",
+		"login_box_type": "NAME",
+		"password_box": "password",
+		"password_box_type": "NAME",
+		"submit_box": "//input[@type='submit']",
+		"submit_box_type": "XPATH"
+	},
+	"Reelflix": {
+		"url": "https://reelflix.xyz/login",
+		"login_url": "https://reelflix.xyz/",
+		"stats_url": "https://reelflix.xyz/users/darth_revan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "auth-form__primary-button",
+		"submit_box_type": "CLASS"
+	},
+	"Aither": {
+		"url": "https://aither.cc/login",
+		"login_url": "https://aither.cc/",
+		"stats_url": "https://aither.cc/users/darth_revan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "auth-form__primary-button",
+		"submit_box_type": "CLASS"
+	},
 	"CathodeRayTube": {
 		"url": "https://www.cathode-ray.tube/login",
 		"login_url": "https://www.cathode-ray.tube/",
@@ -97,6 +87,62 @@
 		"password_box": "//input[@class='text-input' and @name='password']",
 		"password_box_type": "XPATH",
 		"submit_box": "//input[@id='login_button' and @name='submit']",
+		"submit_box_type": "XPATH"
+	},
+	"FearNoPeer": {
+		"url": "https://fearnopeer.com/login",
+		"login_url": "https://fearnopeer.com/",
+		"stats_url": "https://fearnopeer.com/users/darthRevan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "auth-form__primary-button",
+		"submit_box_type": "CLASS"
+	},
+	"SkipTheTrailers": {
+		"url": "https://skipthetrailers.xyz/login",
+		"login_url": "https://skipthetrailers.xyz/",
+		"stats_url": "https://skipthetrailers.xyz/users/darthRevan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "login-button",
+		"submit_box_type": "ID"
+	},
+	"AnimeTorrents": {
+		"url": "https://skipthetrailers.xyz/login",
+		"login_url": "https://skipthetrailers.xyz/",
+		"stats_url": "https://skipthetrailers.xyz/users/darthRevan",
+		"login_box": "login-element-2",
+		"login_box_type": "ID",
+		"password_box": "login-element-3",
+		"password_box_type": "ID",
+		"submit_box": "login-element-6",
+		"submit_box_type": "ID"
+	},
+	"OnlyEncodes": {
+		"url": "https://onlyencodes.cc/login",
+		"login_url": "https://onlyencodes.cc/pages/1",
+		"stats_url": "https://onlyencodes.cc/users/darthRevan",
+		"login_box": "//input[@id='username' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "password",
+		"password_box_type": "ID",
+		"submit_box": "auth-form__primary-button",
+		"submit_box_type": "CLASS"
+	},
+	"HappyFappy": {
+		"url": "https://www.happyfappy.org/login",
+		"login_url": "https://www.happyfappy.org/login",
+		"login_title": "News :: HappyFappy",
+		"stats_url": "https://www.happyfappy.org/user.php?id=21398",
+		"login_box": "username",
+		"login_box_type": "NAME",
+		"password_box": "password",
+		"password_box_type": "NAME",
+		"submit_box": "//input[@id='login_button' and @type='submit']",
 		"submit_box_type": "XPATH"
 	},
 	"ExtremeBits": {
@@ -121,18 +167,6 @@
 		"submit_box": "//input[@type='submit' and @value='Login']",
 		"submit_box_type": "XPATH"
 	},
-	"HappyFappy": {
-		"url": "https://www.happyfappy.org/login",
-		"login_url": "https://www.happyfappy.org/login",
-		"login_title": "News :: HappyFappy",
-		"stats_url": "https://www.happyfappy.org/user.php?id=21398",
-		"login_box": "username",
-		"login_box_type": "NAME",
-		"password_box": "password",
-		"password_box_type": "NAME",
-		"submit_box": "//input[@id='login_button' and @type='submit']",
-		"submit_box_type": "XPATH"
-	},
 	"HD-Space": {
 		"url": "https://hd-space.org/",
 		"login_url": "https://hd-space.org/",
@@ -155,18 +189,6 @@
 		"password_box": "//input[@type='password' and @name='password']",
 		"password_box_type": "XPATH",
 		"submit_box": "//input[@type='submit' and @value='LOGIN']",
-		"submit_box_type": "XPATH"
-	},
-	"IPTorrents": {
-		"url": "https://iptorrents.com/login.php",
-		"login_url": "https://iptorrents.com/t",
-		"login_title": "Torrents - IPTorrents - #1 Private Tracker",
-		"stats_url": "https://iptorrents.com/user.php?u=2089006",
-		"login_box": "username",
-		"login_box_type": "NAME",
-		"password_box": "password",
-		"password_box_type": "NAME",
-		"submit_box": "//input[@type='submit']",
 		"submit_box_type": "XPATH"
 	},
 	"LST": {
@@ -227,17 +249,6 @@
 		"password_box": "password",
 		"password_box_type": "NAME",
 		"submit_box": "//button[@type='submit' and @class='btn']",
-		"submit_box_type": "XPATH"
-	},
-	"TorrentLeech": {
-		"url": "https://www.torrentleech.org/user/account/login/",
-		"login_url": "https://www.torrentleech.org/torrents/top/index/added/-1%20day/orderby/completed/order/desc",
-		"stats_url": "https://www.torrentleech.org/profile/darthRevan117/view",
-		"login_box": "username",
-		"login_box_type": "NAME",
-		"password_box": "password",
-		"password_box_type": "NAME",
-		"submit_box": "//button[@type='submit' and @class='btn tl-btn btn-primary action']",
 		"submit_box_type": "XPATH"
 	},
 	"TorrentSeeds": {
