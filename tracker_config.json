@@ -7,8 +7,8 @@
 		"login_box_type": "XPATH",
 		"password_box": "password",
 		"password_box_type": "ID",
-		"submit_box": "//button[@type='submit' and @id='login-button']",
-		"submit_box_type": "XPATH"
+		"submit_box": "login",
+		"submit_box_type": "TEXT"
 	},
 	"Reelflix": {
 		"url": "https://reelflix.xyz/login",
