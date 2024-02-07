@@ -11,8 +11,8 @@
 		"submit_box_type": "XPATH"
 	},
 	"Blutopia": {
-		"url": "https://blutopia.cc/login/",
-		"login_url": "https://blutopia.cc/login",
+		"url": "https://blutopia.cc/login",
+		"login_url": "https://blutopia.cc/",
 		"stats_url": "https://blutopia.cc/users/darthRevan",
 		"login_box": "//input[@id='username' and @name='username']",
 		"login_box_type": "XPATH",
