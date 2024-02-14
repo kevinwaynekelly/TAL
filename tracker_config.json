@@ -10,6 +10,17 @@
 		"submit_box": "//input[@type='submit' and @value='Login']",
 		"submit_box_type": "XPATH"
 	},
+	"Orpheus": {
+		"url": "https://orpheus.network/login.php",
+		"login_url": "https://orpheus.network/index.php",
+		"stats_url": "https://orpheus.network/user.php?id=32398",
+		"login_box": "//input[@class='inputtext' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "//input[@class='inputtext' and @name='password']",
+		"password_box_type": "XPATH",
+		"submit_box": "//input[@class='submit' and @name='login']",
+		"submit_box_type": "XPATH"
+	},
 	"Blutopia": {
 		"url": "https://blutopia.cc/login",
 		"login_url": "https://blutopia.cc/",
