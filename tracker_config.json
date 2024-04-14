@@ -10,6 +10,17 @@
 		"submit_box": "//input[@type='submit' and @value='Login']",
 		"submit_box_type": "XPATH"
 	},
+	"MoreThanTV": {
+		"url": "https://www.morethantv.me/login",
+		"login_url": "https://www.morethantv.me/",
+		"stats_url": "https://www.morethantv.me/user.php?id=38795",
+		"login_box": "//input[@class='input-text' and @name='username']",
+		"login_box_type": "XPATH",
+		"password_box": "//input[@class='input-text' and @name='password']",
+		"password_box_type": "XPATH",
+		"submit_box": "//input[@type='submit']",
+		"submit_box_type": "XPATH"
+	},
 	"Nebulance": {
 		"url": "https://nebulance.io/login.php",
 		"login_url": "https://nebulance.io/index.php",
